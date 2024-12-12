@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/aswanth-mc/Safe_Net.Admin_Pannel#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
