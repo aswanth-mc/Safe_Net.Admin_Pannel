@@ -1,0 +1,26 @@
+{
+  "name": "safe_net.admin_pannel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanth-mc/Safe_Net.Admin_Pannel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswanth-mc/Safe_Net.Admin_Pannel/issues"
+  },
+  "homepage": "https://github.com/aswanth-mc/Safe_Net.Admin_Pannel#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "hbs": "^4.2.0",
+    "nocache": "^4.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
